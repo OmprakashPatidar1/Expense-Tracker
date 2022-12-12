@@ -1,0 +1,17 @@
+.box{
+    color: rgb(249, 244, 245);
+    background-color:rgb(19, 19, 19);
+    border: 1px solid  ;
+    min-height: 10px;
+    border-radius: 10px;
+    font-size: 4rem;
+    text-align: center;
+}
+
+
+
+
+
+.hed{
+    text-align: center;
+}
